@@ -1,5 +1,4 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=200&section=header&text=Hi%2C%20%20I'm%20%20Ryan.%20Thanks%20%20for%20%20visiting%20%20my%20%20page!&fontSize=30&fontColor=0033cc)
 
 
 <!--
